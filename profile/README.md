@@ -1,5 +1,3 @@
-# About Friends & Security
-
 ## `whoami`
 
 Friends & Security is a security research blog created by four friends—**Yehuda Smirnov**, **Hai Vaknin**, **Hoshea Yarden**, and **Noam Pomerantz**.
